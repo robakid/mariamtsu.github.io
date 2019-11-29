@@ -1,11 +1,4 @@
-/*
-develop by: https://authlab.io/
-Description: work with the One in a Million people who have the ability to change the world Are You One
-Version: 0.1.0
-Author: Nurealamsabbir
-Author URI: fb.com/nurealam.sabbir
-email:hello@authlab.io;
-*/
+
 /*-------------------------------------------------------*/
 /* Table of Content
 1. General
@@ -19,10 +12,8 @@ email:hello@authlab.io;
 /*-------------------------------------------------------*/
 /* General
 /*-------------------------------------------------------*/
-@import 'http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
-/* THE ULTIMATE PX/REM MIXIN
-*url:http://codepen.io/thejameskyle/pen/JmBjc
- */
+@import 'https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
+
 /* font */
 /* button color */
 /* button */
